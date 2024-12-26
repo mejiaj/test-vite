@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "@uswds/web-components": "^0.0.1-alpha"
   }
 }
