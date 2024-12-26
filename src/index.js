@@ -1,1 +1,1 @@
-import "@uswds/web-components";
+import "@uswds/web-components/components/usa-banner";
